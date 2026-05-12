@@ -300,14 +300,6 @@ Through this project, I learned:
 
 ---
 
-# 👨‍💻 Author
-
-## Harsh Mishra
-
-Machine Learning Enthusiast | Java Developer | Data Analytics Learner
-
----
-
 # ⭐ If You Like This Project
 
 Give this repository a ⭐ on GitHub and share it with others.
@@ -332,20 +324,6 @@ Give this repository a ⭐ on GitHub and share it with others.
 
 ---
 
-# 📷 Sample Output Ideas
 
-You can add screenshots of:
 
-* Heatmaps
-* Elbow Curve
-* Cluster Graphs
-* PCA Visualization
-* Scatterplots
 
-inside the GitHub README for a more professional look.
-
----
-
-# 📜 License
-
-This project is open-source and available under the MIT License.
